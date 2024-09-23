@@ -1,2 +1,3 @@
-https://github.com/Itsuki0001/Task <br>
-This is a simple task manager using python
+## Project URL
+The project can be accessed
+<a href="https://github.com/Itsuki0001/Task">Here</a>
